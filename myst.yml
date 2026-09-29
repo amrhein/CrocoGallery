@@ -53,6 +53,10 @@ project:
             - file: crocodash/projects/KitchenSink.ipynb
             - file: crocodash/projects/bering_diagnostics.ipynb
               title: Bering Sea Diagnostics
+        - title: Experimental
+          children:
+            - file: crocodash/experimental/gridsketcher.ipynb
+              title: Sketch a Grid (GridSketcher)
 
     - file: mom6_tools.md
       title: mom6-tools
