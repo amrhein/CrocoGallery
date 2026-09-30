@@ -9,6 +9,7 @@ GLADE_EXCEPTIONS=(
   "crocodash/tutorial-ocn-wav-ice.ipynb"   # Commented-out example CICE restart/grid paths on GLADE
   "crocodash/projects"   # Workshop project briefs; participant-specific /glade paths are expected
   "crocodash/use_cases"
+  "crocodash/experimental"   # Experimental notebooks may read data staged on GLADE
   "workshop_2026"
   "crococamp"          # CrocoCamp notebooks are NCAR-specific; /glade paths are expected
   "dart"               # DART tutorials run on Derecho against staged workshop data; /glade paths are expected
